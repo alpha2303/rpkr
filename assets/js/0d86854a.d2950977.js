@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrpkr=self.webpackChunkrpkr||[]).push([[533],{7231:r=>{r.exports=JSON.parse('{"tags":[{"label":"Hola","permalink":"/rpkr/tags/hola","description":"Hola tag description","count":1},{"label":"Docusaurus","permalink":"/rpkr/tags/docusaurus","description":"Docusaurus tag description","count":1}]}')}}]);
