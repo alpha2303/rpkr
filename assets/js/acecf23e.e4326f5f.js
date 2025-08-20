@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrpkr=self.webpackChunkrpkr||[]).push([[903],{1912:r=>{r.exports=JSON.parse('{"blogBasePath":"/rpkr/","blogTitle":"Blog","authorsListPath":"/rpkr/authors"}')}}]);
